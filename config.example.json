@@ -1,0 +1,15 @@
+{
+  "lat": 64.84,
+  "lon": -147.72,
+  "check_interval_min": 15,
+  "sun_max_elev": -10.0,
+  "cloud_max": 35,
+  "aurora_min": 15,
+  "moon_penalty": 15,
+  "moon_full_alt": 30,
+  "box_north": 2,
+  "box_lon": 4,
+  "zones": 10,
+  "brightness": 40,
+  "claim_file": null
+}

@@ -1,0 +1,4 @@
+config.json
+aurora_watch.log*
+.aurora.lock
+__pycache__/
